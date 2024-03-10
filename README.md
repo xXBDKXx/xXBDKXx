@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
 <h1 align="center">Olá me chamo Bruno Ferreira da Silva</h1>
 <h3 align="center">Um mero mortal no mundo da tecnologia</h3>
 
