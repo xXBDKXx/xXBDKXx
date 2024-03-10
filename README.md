@@ -1,4 +1,4 @@
-![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
+![MasterHead](https://www.gulde.com/images/technical_areas/softwareundIT_header.jpg)
 <h1 align="center">Olá me chamo Bruno Ferreira da Silva</h1>
 <h3 align="center">Um mero mortal no mundo da tecnologia</h3>
 
