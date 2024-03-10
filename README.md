@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lkZmkyamxkNmF2cXhlaXJwOG92M2o3eXJ6NXQ1b3lkcnZ6eWd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxbdkxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxbdkxx" /> </p>
+
 
 - 🔭 Trabalhando Atualmente em: [MindFullDay](https://github.com/xXBDKXx/MindFullDay)
 
