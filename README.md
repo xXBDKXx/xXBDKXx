@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Trabalhando Atualmente em: [MindFullDay](https://github.com/xXBDKXx/MindFullDay)
+- 🔭 Projeto mais Recente: [MindFullDay](https://github.com/xXBDKXx/MindFullDay)
 
 <h3 align="left">Redes Socias:</h3>
 <p align="left">
